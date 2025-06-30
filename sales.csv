@@ -1,0 +1,11 @@
+Date,Product,Region,Sales
+2025-01-01,Keyboard,North,1200
+2025-01-01,Mouse,South,800
+2025-01-02,Monitor,North,5400
+2025-01-02,Keyboard,East,1500
+2025-01-03,Mouse,West,950
+2025-01-03,Monitor,South,5200
+2025-01-04,Keyboard,West,1800
+2025-01-04,Mouse,East,750
+2025-01-05,Monitor,North,6000
+2025-01-05,Mouse,South,780
